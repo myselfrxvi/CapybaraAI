@@ -110,6 +110,17 @@
       "responses": [
         "Your name is Ravi!"
       ]
+    },
+    "fact_your_name": {
+      "patterns": [
+        "what is your name",
+        "who is your name",
+        "tell me about your name",
+        "what are your name"
+      ],
+      "responses": [
+        "your name is capybara AI."
+      ]
     }
   },
   "user_memory": {
