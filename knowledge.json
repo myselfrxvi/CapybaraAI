@@ -1,0 +1,118 @@
+{
+  "knowledge": {
+    "greeting": {
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "whats up",
+        "greetings",
+        "hhiii",
+        "wsp",
+        "wassup",
+        "yo"
+      ],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hey there!",
+        "Hi! What are we working on?"
+      ]
+    },
+    "how_are_you": {
+      "patterns": [
+        "how are you",
+        "how are you doing",
+        "how is it going",
+        "hows it going",
+        "are you ok",
+        "hows life"
+      ],
+      "responses": [
+        "I'm doing great and constantly learning new things!",
+        "I'm doing well, thank you! How are you?"
+      ]
+    },
+    "acknowledgement": {
+      "patterns": [
+        "i know",
+        "ok",
+        "okay",
+        "cool",
+        "nice",
+        "got it",
+        "understood",
+        "makes sense",
+        "great",
+        "okayy",
+        "alright"
+      ],
+      "responses": [
+        "Glad to hear!",
+        "Awesome!",
+        "Sounds good! Let me know if you want to teach me anything else."
+      ]
+    },
+    "thanks": {
+      "patterns": [
+        "thank you",
+        "thanks",
+        "thx",
+        "appreciate it"
+      ],
+      "responses": [
+        "You're very welcome!",
+        "Anytime! Happy to help."
+      ]
+    },
+    "goodbye": {
+      "patterns": [
+        "bye",
+        "see you",
+        "goodbye",
+        "exit",
+        "quit"
+      ],
+      "responses": [
+        "Goodbye! Have a great day!",
+        "See you later!",
+        "Bye!"
+      ]
+    },
+    "identity": {
+      "patterns": [
+        "who are you",
+        "what is your name",
+        "what are you"
+      ],
+      "responses": [
+        "I am your custom PyTorch neural chatbot!",
+        "I'm an adaptive self-learning AI built by you!"
+      ]
+    },
+    "python": {
+      "patterns": [
+        "tell me about python",
+        "do you know python",
+        "what is python",
+        "who created python"
+      ],
+      "responses": [
+        "Python is the world's most popular language for AI and Data Science created by Guido van Rossum!"
+      ]
+    },
+    "user_name": {
+      "patterns": [
+        "what is my name",
+        "who am i",
+        "do you know my name"
+      ],
+      "responses": [
+        "Your name is Ravi!"
+      ]
+    }
+  },
+  "user_memory": {
+    "name": "Ravi"
+  }
+}
