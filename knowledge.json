@@ -121,6 +121,28 @@
       "responses": [
         "your name is capybara AI."
       ]
+    },
+    "fact_pytorch": {
+      "patterns": [
+        "what is PyTorch",
+        "who is PyTorch",
+        "tell me about PyTorch",
+        "what are PyTorch"
+      ],
+      "responses": [
+        "PyTorch is an open-source machine learning framework created by Meta."
+      ]
+    },
+    "fact_your_owner_name": {
+      "patterns": [
+        "what is your owner name",
+        "who is your owner name",
+        "tell me about your owner name",
+        "what are your owner name"
+      ],
+      "responses": [
+        "your owner name is Ravi."
+      ]
     }
   },
   "user_memory": {
